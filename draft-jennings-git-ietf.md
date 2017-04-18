@@ -1,8 +1,6 @@
 %%%
 
     #
-    # SRTP Double Encryption Procedures
-    #
     # Generation tool chain:
     #   mmark (https://github.com/miekg/mmark)
     #   xml2rfc (http://xml2rfc.ietf.org/)
@@ -11,7 +9,7 @@
     Title = "Thoughts on Using GitHUb for IETF work"
     abbrev = "GitHub at IETF"
     category = "std"
-    docName = "draft-jennings-git-ietf-03"
+    docName = "draft-jennings-git-ietf-00"
     ipr= "trust200902"
     area = "Internet"
     keyword = ["GitHub"]
